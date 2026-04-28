@@ -10,7 +10,6 @@ build/
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
@@ -23,3 +22,5 @@ Thumbs.db
 *.g.dart
 *.freezed.dart
 *.mocks.dart
+config.bat
+node_modules
